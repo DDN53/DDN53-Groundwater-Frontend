@@ -8,6 +8,8 @@
    cd path/to/frontend/src
 2.**Second**
 After run project using npm start
+  ```bash
 3.**Finally**
+  ```bash
 finally create user name and bycrypt password in NWDB_GW_User table
 
